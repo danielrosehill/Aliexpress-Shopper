@@ -1,0 +1,12 @@
+{
+  "name": "aliexpress-shopper",
+  "version": "0.1.0",
+  "description": "Browser-driven AliExpress shopping assistant for Claude in Chrome. Bundles userscripts (Find Similar, Hide Combo Deals) and skills/commands that drive aliexpress.com directly in the user's browser session — search, read current listing, compare open tabs, apply filters, hide bundles, and find similar items. Scope is global aliexpress.com (any locale/currency) and visual/interactive shopping, not headless scraping or programmatic API flows.",
+  "author": {
+    "name": "Daniel Rosehill",
+    "url": "https://github.com/danielrosehill"
+  },
+  "repository": "https://github.com/danielrosehill/Aliexpress-Shopper",
+  "license": "MIT",
+  "keywords": ["aliexpress", "shopping", "ecommerce", "browser", "claude-in-chrome", "userscripts", "tampermonkey"]
+}
