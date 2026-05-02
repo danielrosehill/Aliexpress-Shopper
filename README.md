@@ -36,6 +36,7 @@ Then install the bundled userscripts:
 | `/aliexpress-compare` | Compare every open `/item/` tab side-by-side. |
 | `/aliexpress-filter <filters...>` | Toggle Choice / free shipping / 4★+ / ship-from / price range on the current results page. |
 | `/aliexpress-similar [url]` | Find similar listings to the active tab (or a pasted URL). |
+| `/aliexpress-combos [toggle\|hide\|show]` | Check on or flip the Hide Combo Deals userscript on the active tab. |
 | `/aliexpress-install-userscripts` | Walk through Tampermonkey install for the bundled scripts and verify. |
 
 ## Skills
@@ -47,6 +48,7 @@ Then install the bundled userscripts:
 | `compare-open-tabs` | "compare these tabs", "which of these is better" |
 | `apply-filters` | "filter by free shipping", "only choice", "ship from china" |
 | `find-similar` | "find similar to this", "alternatives to this" |
+| `hide-combo-deals` | "hide combos", "show combos again", "how many combos hidden", "is the combo blocker working" |
 | `install-userscripts` | "install the userscripts", "is find similar working" |
 
 ## Bundled userscripts
