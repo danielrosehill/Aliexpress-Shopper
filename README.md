@@ -1,5 +1,7 @@
 # Aliexpress-Shopper
 
+![Aliexpress-Shopper banner](./banner.png)
+
 A Claude Code plugin for shopping aliexpress.com **interactively in your own browser**, via [Claude in Chrome](https://www.anthropic.com/news/claude-for-chrome). Bundles two userscripts and a set of skills/commands that drive the live page in your Chrome session — search, read the listing you're on, compare open tabs, apply filters, find similar items, hide combo bundles.
 
 ## Scope
